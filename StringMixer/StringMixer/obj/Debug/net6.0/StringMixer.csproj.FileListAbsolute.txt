@@ -1,0 +1,14 @@
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\bin\Debug\net6.0\StringMixer.exe
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\bin\Debug\net6.0\StringMixer.deps.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\bin\Debug\net6.0\StringMixer.runtimeconfig.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\bin\Debug\net6.0\StringMixer.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\bin\Debug\net6.0\StringMixer.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\obj\Debug\net6.0\StringMixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\obj\Debug\net6.0\StringMixer.AssemblyInfoInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\obj\Debug\net6.0\StringMixer.AssemblyInfo.cs
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\obj\Debug\net6.0\StringMixer.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\obj\Debug\net6.0\StringMixer.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\obj\Debug\net6.0\refint\StringMixer.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\obj\Debug\net6.0\StringMixer.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\obj\Debug\net6.0\StringMixer.genruntimeconfig.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\StringMixer\StringMixer\obj\Debug\net6.0\ref\StringMixer.dll

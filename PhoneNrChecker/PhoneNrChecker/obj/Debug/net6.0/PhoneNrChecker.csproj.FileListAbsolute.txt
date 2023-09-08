@@ -1,0 +1,14 @@
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\obj\Debug\net6.0\PhoneNrChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\obj\Debug\net6.0\PhoneNrChecker.AssemblyInfoInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\obj\Debug\net6.0\PhoneNrChecker.AssemblyInfo.cs
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\obj\Debug\net6.0\PhoneNrChecker.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\bin\Debug\net6.0\PhoneNrChecker.exe
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\bin\Debug\net6.0\PhoneNrChecker.deps.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\bin\Debug\net6.0\PhoneNrChecker.runtimeconfig.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\bin\Debug\net6.0\PhoneNrChecker.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\bin\Debug\net6.0\PhoneNrChecker.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\obj\Debug\net6.0\PhoneNrChecker.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\obj\Debug\net6.0\refint\PhoneNrChecker.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\obj\Debug\net6.0\PhoneNrChecker.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\obj\Debug\net6.0\PhoneNrChecker.genruntimeconfig.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\PhoneNrChecker\PhoneNrChecker\obj\Debug\net6.0\ref\PhoneNrChecker.dll

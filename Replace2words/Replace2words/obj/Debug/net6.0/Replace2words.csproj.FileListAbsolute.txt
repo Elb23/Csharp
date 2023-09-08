@@ -1,0 +1,14 @@
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\bin\Debug\net6.0\Replace2words.exe
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\bin\Debug\net6.0\Replace2words.deps.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\bin\Debug\net6.0\Replace2words.runtimeconfig.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\bin\Debug\net6.0\Replace2words.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\bin\Debug\net6.0\Replace2words.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\obj\Debug\net6.0\Replace2words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\obj\Debug\net6.0\Replace2words.AssemblyInfoInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\obj\Debug\net6.0\Replace2words.AssemblyInfo.cs
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\obj\Debug\net6.0\Replace2words.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\obj\Debug\net6.0\Replace2words.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\obj\Debug\net6.0\refint\Replace2words.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\obj\Debug\net6.0\Replace2words.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\obj\Debug\net6.0\Replace2words.genruntimeconfig.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Replace2words\Replace2words\obj\Debug\net6.0\ref\Replace2words.dll
