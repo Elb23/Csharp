@@ -1,0 +1,14 @@
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\obj\Debug\net6.0\FileNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\obj\Debug\net6.0\FileNames.AssemblyInfoInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\obj\Debug\net6.0\FileNames.AssemblyInfo.cs
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\obj\Debug\net6.0\FileNames.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\bin\Debug\net6.0\FileNames.exe
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\bin\Debug\net6.0\FileNames.deps.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\bin\Debug\net6.0\FileNames.runtimeconfig.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\bin\Debug\net6.0\FileNames.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\bin\Debug\net6.0\FileNames.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\obj\Debug\net6.0\FileNames.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\obj\Debug\net6.0\refint\FileNames.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\obj\Debug\net6.0\FileNames.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\obj\Debug\net6.0\FileNames.genruntimeconfig.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\OOP\FileNames\FileNames\obj\Debug\net6.0\ref\FileNames.dll

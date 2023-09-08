@@ -1,0 +1,14 @@
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\bin\Debug\net6.0\BookCLass.exe
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\bin\Debug\net6.0\BookCLass.deps.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\bin\Debug\net6.0\BookCLass.runtimeconfig.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\bin\Debug\net6.0\BookCLass.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\bin\Debug\net6.0\BookCLass.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\obj\Debug\net6.0\BookCLass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\obj\Debug\net6.0\BookCLass.AssemblyInfoInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\obj\Debug\net6.0\BookCLass.AssemblyInfo.cs
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\obj\Debug\net6.0\BookCLass.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\obj\Debug\net6.0\BookCLass.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\obj\Debug\net6.0\refint\BookCLass.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\obj\Debug\net6.0\BookCLass.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\obj\Debug\net6.0\BookCLass.genruntimeconfig.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\BookClass\BookCLass\BookCLass\obj\Debug\net6.0\ref\BookCLass.dll

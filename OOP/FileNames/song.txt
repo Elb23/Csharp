@@ -1,0 +1,13 @@
+HELLOOOOOOOOOOOOOOOOOOOOOOOOOOooooooooooooooo
+  readline title numberOfPages PublicationYear
+      enter an empty space to end reading 
+  Q: what is to be printed ?
+      ifeverythin: print book titles,num pages,pub years
+      ifstring title only titles
+      elsep print nth 
+  readline title numberOfPages PublicationYear
+      enter an empty space to end reading 
+  Q: what is to be printed ?
+      ifeverythin: print book titles,num pages,pub years
+      ifstring title only titles
+      elsep print nth 
