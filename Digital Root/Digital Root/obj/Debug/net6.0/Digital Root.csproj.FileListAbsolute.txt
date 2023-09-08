@@ -1,0 +1,14 @@
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\bin\Debug\net6.0\Digital Root.exe
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\bin\Debug\net6.0\Digital Root.deps.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\bin\Debug\net6.0\Digital Root.runtimeconfig.json
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\bin\Debug\net6.0\Digital Root.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\bin\Debug\net6.0\Digital Root.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\obj\Debug\net6.0\Digital Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\obj\Debug\net6.0\Digital Root.AssemblyInfoInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\obj\Debug\net6.0\Digital Root.AssemblyInfo.cs
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\obj\Debug\net6.0\Digital Root.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\obj\Debug\net6.0\Digital Root.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\obj\Debug\net6.0\refint\Digital Root.dll
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\obj\Debug\net6.0\Digital Root.pdb
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\obj\Debug\net6.0\Digital Root.genruntimeconfig.cache
+C:\Users\Abdel\bureau files may 23\desktop\Start\VS CODE\C#\learn\Digital Root\Digital Root\obj\Debug\net6.0\ref\Digital Root.dll
